@@ -1,5 +1,5 @@
 - :wave: Hi, I’m @NicholasBoeke
-- :stuck_out_tongue_winking_eye: I’m interested in data analytics and business intelligence, as well as deer hunting, backcountry camping, fishing, self defense & brazilian jiujitsu.
+- :stuck_out_tongue_winking_eye: I’m interested in data science/analytics and business intelligence, as well as deer hunting, backcountry camping, fishing, self defense & brazilian jiujitsu.
 - :green_book: I’m currently working on numerous projects to hone skills in warehousing, cloud platforms, ELT/ETL, and more.
 - :mailbox: How to reach me nicholasboeke@gmail.com
 
